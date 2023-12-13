@@ -1,6 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi;Bonjour;Hallo;Ciao;您好;नमस्ते";" />
+</h1>
 
-
-<h1 align="center">Hi 👋, I'm Ridwan Ahmed Arman</h1>
+<h1 align="center">I'm Ridwan Ahmed Arman</h1>
 <h3 align="center">A passionate Programmer from Bangladesh</h3>
 <p align="center">🤖📊 Aspiring machine learning enthusiast passionate about data analysis and AI-driven solutions. Constantly exploring and learning to leverage data for meaningful insights. 🌟 Excited about the possibilities at the intersection of technology and data science. 💻 Let's innovate and build together! 🚀 #MachineLearning #DataAnalysis #AIEnthusiast</p>
 <p align="center"> 
@@ -114,6 +116,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
- <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
