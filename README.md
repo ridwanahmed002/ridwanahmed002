@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ridwan Ahmed Arman</h1>
-<h3 align="center">A passionate Programmer from Banladesh</h3>
+<h3 align="center">A passionate Programmer from Bangladesh</h3>
 <p align="center">🤖📊 Aspiring machine learning enthusiast passionate about data analysis and AI-driven solutions. Constantly exploring and learning to leverage data for meaningful insights. 🌟 Excited about the possibilities at the intersection of technology and data science. 💻 Let's innovate and build together! 🚀 #MachineLearning #DataAnalysis #AIEnthusiast</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=ridwanahmed002&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanahmed002" /> 
